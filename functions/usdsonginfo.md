@@ -43,7 +43,7 @@ Next Playing: $songInfo[title;1]
 * publisher - Channel that uploaded the song.
 * publisher\_url - Link of the channel that uploaded the song.
 
-{% hint style="info" %}
-The cuurent song's position is `0`- so next one's is `1` and so on...
-{% endhint %}
+```js
+"The current song's position is "0"- so next one's is "1" and so on..."
+```
 
